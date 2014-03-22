@@ -6,6 +6,9 @@ khakistone.github.com
   .a {
     height: 10px;
   }
+  .b {
+    width: 10px;
+  }
   ```
 * cccc
 * dddd

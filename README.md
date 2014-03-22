@@ -2,9 +2,10 @@ khakistone.github.com
 =====================
 * aaaa
 * bbbb
-  ```
-  asdfas
-  asdlkfasd
+  ```css
+  .a {
+    height: 10px;
+  }
   ```
 * cccc
 * dddd

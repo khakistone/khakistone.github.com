@@ -2,7 +2,6 @@ khakistone.github.com
 =====================
 * aaaa
 * bbbb
-
   ```css
   .a {
     height: 10px;
@@ -12,6 +11,5 @@ khakistone.github.com
     width: 10px;
   }
   ```
-
 * cccc
 * dddd
